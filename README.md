@@ -8,7 +8,7 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
--   :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-@Fe1chh-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Fe1chh) [![Gmail Badge](https://img.shields.io/badge/-muxan77777@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](muxan77777@gmail.com)
+-   :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-@Fe1chh-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Fe1chh) [![Gmail Badge](https://img.shields.io/badge/-muxan77777@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:muxan77777@gmail.com)
 
 ---
 
