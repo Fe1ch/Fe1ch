@@ -2,7 +2,7 @@
 
 ### :man_technologist: Обо мне:
 
-Я веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. С января 2023 года я изучаю веб разработку на курсах Яндекс Практикум. В настоящий момент мое обучение на курсе не завершено.
+Я веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. В октябре 2023 года закончил курс от Яндекс.Практикума. Развиваюсь в этом же направлении и сейчас начал курс от ULBI TV
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
